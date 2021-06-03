@@ -1,0 +1,27 @@
+13C_Natural_Abundance: 0.0000
+Cold_Starts: 20
+Initial_Flux_Values: 0
+Initial_Pool_Values: 0
+Bootstrap_Iterations: 1000
+Create_json_File: 1
+Show_GAMS_Output: 1
+NLP_Solver: conopt
+Tandem_MS_Data: 0
+Instationary_Model: 1
+
+ONLY FILL OUT BELOW IF FITTING INSTATIONARY DATA
+
+Collocation_Method: RADAUIIA3O
+
+Refine_Grid: 1
+Fine_Coll_Method: RADAUIIA5O
+
+Estimate_Grid_Error: 1
+Error_Est_Coll_Method: RADAUIIA9O
+
+Measurement_Time_Points: 2 5 10 20
+Time_Nodes: 0 1 2 4 8 12 20
+
+Plot_Results: 1
+Font_Size: 14
+Time_Units: min

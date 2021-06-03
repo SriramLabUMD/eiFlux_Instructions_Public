@@ -1,0 +1,11 @@
+Model_File_Name: Example_Model_inst-MFA
+Model_Settings_File_Name: modelsettings.txt
+Reaction_File_Name: reactions.txt
+FluxBound_File_Name: fluxbounds.txt
+PoolBound_File_Name: poolbounds.txt
+Fed_Label_File_Name: label.txt
+Measurement_File_Name: measurements.txt
+Flux_Measurement_File_Name: flux_measurements.txt
+Pool_Measurement_File_Name: pool_measurements.txt
+Init_Flux_File_Name: none
+Init_Pool_File_Name: none

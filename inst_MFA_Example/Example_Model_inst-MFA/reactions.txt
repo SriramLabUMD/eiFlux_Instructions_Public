@@ -1,0 +1,14 @@
+ENTRY AND EXIT REACTIONS
+
+A_in:   -> Axt (abc)
+B_out:  B (abc) ->
+
+NETWORK REACTIONS
+
+v1:     Axt (abc) -> A (abc)
+v2:     A (xyz) -> C (x) + D (yz)
+v3:     C (a) + D (bc) -> B (abc)
+v4:     A (pQr) -> E (pQ) + F (r)
+v5:     E (ab) + F (c) -> B (abc)
+v6.f:   A (ab1) -> B (ab1)
+v6.b:   B (abc) -> A (abc)

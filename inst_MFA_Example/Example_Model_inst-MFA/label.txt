@@ -1,0 +1,3 @@
+expt1   Axt 110 0.80
+expt2   Axt 111 0.50
+expt2   Axt 001 0.25
