@@ -90,7 +90,7 @@ Tandem MS data is interpreted differently than single MS data. The flag "**Tande
 
 The flag "**Instationary_Model**" tells eiFlux to fit isotopically nonstationary data (inst-MFA).
 
-eiFlux has the capability of generating an Escher-readable JSON file containing the metabolic network model structure using the flag "**Create_json_File**". Escher is an excellent metabolic network visualization tool that is typically used to visualize pathways in large-scale metabolic networks from genome-scale reconstructions. Modelers may use Escher to vizualize their metabolic network developed using eiFlux and also overlay their flux solution onto this flux map. This helps the modeler to vizualize their network as they are developing it, which can aid in the development process in addition to providing a high-quality figure.  
+eiFlux has the capability of generating an Escher-readable JSON file containing the metabolic network model structure using the flag "**Create_json_File**". Escher (King et al., PLOS Comput. Biol., 2015) is an excellent metabolic network visualization tool that is typically used to visualize pathways in large-scale metabolic networks from genome-scale reconstructions. Modelers may use Escher to vizualize their metabolic network developed using eiFlux and also overlay their flux solution onto this flux map. This helps the modeler to vizualize their network as they are developing it, which can aid in the development process in addition to providing a high-quality figure.  
 
 #### Isotopically Nonstationary Models
 
