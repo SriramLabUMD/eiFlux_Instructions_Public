@@ -912,7 +912,7 @@ Image files are named as *MetaboliteName_FragmentAtoms_MeasurementFileLine#*.
 
 #### modeldata.json
 
-If the option "Create_json_File" is set to 1, eiFlux will create *modeldata.json*. This may be read into Escher as a model, and a network constructed for visualization. The flux solution in *Net_Fluxes.txt* may be converted into a *.csv* file and visualized on the network in Escher.  
+If the option "Create_json_File" is set to 1, eiFlux will create *modeldata.json*. This may be read into Escher (King et al., PLOS Comput. Biol., 2015) as a model, and a network constructed for visualization. The flux solution in *Net_Fluxes.txt* may be converted into a *.csv* file and visualized on the network in Escher.  
 
-![Alt text](./inst_MFA_Example/MAP.svg)
+![Alt text](./inst_MFA_Example/MAP.svg) 
 
