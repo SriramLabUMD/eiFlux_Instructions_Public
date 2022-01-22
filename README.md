@@ -1,7 +1,12 @@
 # eiFlux
 eiFlux - A software for stable isotope-assisted metabolic flux analysis
 
-*Created by Daniel J. Lugar*  
+*Daniel J. Lugar and Ganesh Sriram, University of Maryland*  
+
+eiFlux is described in detail in the following publication:
+
+Lugar DJ, Sriram G (in press) Isotope-Assisted Metabolic Flux Analysis as an Equality-Constrained Nonlinear Program for Improved Scalability and Robustness. PLOS Computational Biology
+
 
 ## Introduction and Setup
 
